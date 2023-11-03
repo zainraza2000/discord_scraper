@@ -1,0 +1,7 @@
+{
+  "token": "token_id",
+  "channelId": "channel_id",
+  "startDate": "2023-08-15",
+  "endDate": "2023-09-15",
+  "isPrompt": true
+}
